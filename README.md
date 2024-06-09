@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 # About Me:
-<h3 align="center">Armed with the precision of code, the instincts of a gamer, and the drive of an entrepreneur</h3>
+<h3 align="center">Code like a pyhton, Strike like java</h3>
 
 Passionate Android Developer with a keen interest and expertise in Artificial Intelligence and Machine Learning. As a dedicated professional, I thrive on creating innovative and seamless mobile applications that harness the power of cutting-edge technologies.
 
